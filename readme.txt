@@ -22,4 +22,6 @@ This binary is used in the PPS+ distribution as a subprogram and located in:
 
 
 DOCUMENTATION
-Gregor et al. (2014) PhyloPythiaS+: A self-training method for the rapid reconstruction of low-ranking taxonomic bins from metagenomes. Preprint. Available: arXiv:1406.7123v1. Section 3.3.
+Gregor et al. (2016) PhyloPythiaS+: a self-training method for the rapid reconstruction of low-ranking taxonomic bins from metagenomes
+https://peerj.com/articles/1603/
+(See: section "Simultaneous counting of multiple short k-mers", also please see the minor correction)
